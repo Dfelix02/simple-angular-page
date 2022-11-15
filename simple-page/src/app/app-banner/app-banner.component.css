@@ -1,0 +1,8 @@
+#bannerimage {
+    width: 100%;
+    background-image: url("./artur-stanulevich-6ouEQt-382w-unsplash.jpg");
+    height: 405px;
+    background-color: purple;
+    background-position: center;
+    margin-top: 50px;
+  }
